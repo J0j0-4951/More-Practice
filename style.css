@@ -1,7 +1,7 @@
 h1
 {
       color:blueviolet;
-      font-family:Arial;
+      font-family:'Times New Roman', Times, serif;
 }
 
 article
@@ -10,7 +10,7 @@ article
     width: 500;
     height: 500;
     color: red;
-    font-family:Arial;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .blur
@@ -33,6 +33,8 @@ input[type="text"]
 {
     border: 1px solid purple;
 }
+
+
 
 .container{
     display: flex;
