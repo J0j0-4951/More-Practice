@@ -1,5 +1,11 @@
 h1
 {
       color:blueviolet;
-      font-family: 'Times New Roman', Times, serif;
+      font-family:'Times New Roman', Times, serif;
+}
+
+html
+{
+    backround-color: rgb(195, 195, 255)
+
 }
