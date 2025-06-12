@@ -1,10 +1,26 @@
 h1
 {
       color:blueviolet;
-      font-family:'Times New Roman', Times, serif;
+      font-family:Arial;
 }
 
-html
+body
 {
-    background-color: #c3c3ff
+    background-color: #c3c3ff;
+    color:#c3c3ff;
+    font-family: impact;
+}
+
+div p
+{
+    color:aqua;
+}
+
+a:hover
+{
+    color:black;
+}
+input[type="text"]
+{
+    border: 1px solid purple;
 }
