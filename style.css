@@ -16,7 +16,7 @@ article
 .blur
 {
 backdrop-filter:blur(5px);
-background-color: white;
+background-color: pink;
 }
 
 div p
