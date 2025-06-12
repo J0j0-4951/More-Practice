@@ -4,11 +4,19 @@ h1
       font-family:Arial;
 }
 
-body
+article
 {
-    background-color: #c3c3ff;
-    color:#c3c3ff;
-    font-family: impact;
+    background-image: url('https://ts1.mm.bing.net/th?id=OIP.kIl5A5ur5FG1u6YMqhjbcwHaD4&pid=15.1');
+    width: 500;
+    height: 500;
+    color: red;
+    font-family:Arial;
+}
+
+.blur
+{
+backdrop-filter:blur(5px);
+background-color: white;
 }
 
 div p
@@ -20,6 +28,7 @@ a:hover
 {
     color:black;
 }
+
 input[type="text"]
 {
     border: 1px solid purple;
