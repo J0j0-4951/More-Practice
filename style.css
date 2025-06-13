@@ -52,3 +52,22 @@ input[type="text"]
     background-color: teal;
     color: white;
 }
+
+.container2
+{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 10px;
+padding: 10px;
+background-color:darkorchid;
+}
+
+.item2
+{
+background-color:palevioletred;
+color:azure;
+padding: 20px;
+text-align: center;
+font-size: 16px;
+
+}
